@@ -1,0 +1,1 @@
+cd "PATH TO GAME.JAVA" ; if ($?) { javac Game.java } ; if ($?) { java Game }
